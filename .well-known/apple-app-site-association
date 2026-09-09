@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "5M2G499F4U.com.elstewart.reppen"
+        ],
+        "components": [
+          {
+            "/": "/reppen/invite/",
+            "comment": "REPPEN invitation"
+          },
+          {
+            "/": "/reppen/invite"
+          }
+        ]
+      }
+    ]
+  }
+}
